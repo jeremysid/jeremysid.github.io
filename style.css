@@ -2,6 +2,11 @@
 	background-color: lightblue;
 }
 
+#indexHeader {
+	
+	text-align: center;
+}
+
 .ayoMain {
 	border: 1px solid Black;
 	padding: 10px;
@@ -30,9 +35,15 @@
 	margin-right: 30px;
 	margin-left: 30px;
 	color: DarkSlateGrey;
+	outline-style: double;
 }
 
 .paragraphBody {
 	
 	background-color: FloralWhite;
+}
+
+#ayoLink {
+
+	text-align: center; 	
 }
