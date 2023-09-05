@@ -1,0 +1,48 @@
+.paragraphs {
+
+	color: teal;
+	text-align: center;
+}
+
+#paragraph {
+
+	text-align: center;
+	margin-top: 130px;
+	margin-right: 30px;
+	margin-left: 30px;
+	color: #483C32;
+	outline-style: double;
+}
+
+.paragraphBody {
+
+	background-color: #7BCCB5;
+}
+
+
+/* Titles*/
+#titles {
+	color: #55260be0;
+}
+
+/* Pictures */
+
+.image-collage {
+    list-style: none;
+    padding: 0;
+    display: inline; /* Display images vertically */
+}
+
+.image-collage li {
+    margin: 0 10px; /* Adjust horizontal spacing between images */
+}
+
+.image-collage img {
+    max-width: 90%; /* Ensure images don't exceed the container width */
+    height: 300px; /* Maintain image aspect ratio */
+}
+/* Songs*/
+
+.song-titles {
+	color: #55260be0;
+}

@@ -1,0 +1,31 @@
+#index-body {
+	background-color: lightblue;
+}
+
+#index-header {
+
+	text-align: center;
+}
+
+.ayo-main {
+	border: 1px solid Black;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+
+.ayo-body {
+	background-color: SlateGray;
+}
+
+#ayo-header {
+	color: Black;
+}
+
+
+
+#ayo-link {
+
+	text-align: center;
+}
+
