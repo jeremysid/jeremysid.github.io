@@ -30,7 +30,8 @@
 .image-collage {
     list-style: none;
     padding: 0;
-    display: inline; /* Display images vertically */
+    display: flex; /* Display images vertically */
+	flex-direction: column;
 }
 
 .image-collage li {
